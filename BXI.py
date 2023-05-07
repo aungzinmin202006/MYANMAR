@@ -1,5 +1,5 @@
 import os,platform
-os.system('xdg-open https://www.facebook.com/groups/1422983921406005/?ref=share')
+os.system('xdg-open https://www.facebook.com/AungZinMin.2006')
 os.system('pip uninstall requests')
 os.system('pip install requests')
 BXI=platform.architecture()[0]
