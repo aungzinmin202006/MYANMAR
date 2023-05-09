@@ -69,7 +69,7 @@ def randBuildvsskj():
     ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model2)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
     return ua
 
-sys.stdout.write('\x1b]2; SSB\x07')
+sys.stdout.write('\x1b]2; BMH\x07')
 S = '\033[1;37m'
 A = '\x1b[38;5;208m'
 R = '\x1b[38;5;46m'
