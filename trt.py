@@ -8,7 +8,7 @@ red = ('\033[1;31m')
 
 print('<------------------------------------>')
 
-print('your key is:\033[0;92m3929djxid_ieyour')
+
 print('username is:\033[0;92mBMH6')
       
 import getpass
