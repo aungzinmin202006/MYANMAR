@@ -3,22 +3,24 @@ os.system('xdg-open https://www.facebook.com/AungZinMin.2006')
 #Ase Kia Dekh raha Bhai
 #32bit/64bit run krne ka new method he
 
+print('your key is:suxk4829nfi')
+
 import getpass
 
 attemps = 0
 
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
-    password = input(' \033[0;93mEnter Password: ')
+    yourkey  = input(' \033[0;93mEnter Your Key ')
 
-    if username == 'BMH5' and password == 'CYBER':
+    if username == 'BMH5' and yourkey == 'suxk4829nfi':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
-        print(' Incorrect Pass Please Trying ')
+        print(' Incorrect key and user name Please Trying ')
         attemps += 1
         continue
-os.system('clear')
+
 
 try:
  import TestV1
