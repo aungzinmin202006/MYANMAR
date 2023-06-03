@@ -1,6 +1,8 @@
 # Encoded By MUMIT ISLAM HIMU
 # Py3 Marshal+Zlib+B64 Encryption
 # https://github.com/MUMIT-404-CYBER
+print('your key is:\033[0;92mfixje3828_48fj')
+print('username is:\033[0;92mBMH3')
 import getpass
 
 attemps = 0
