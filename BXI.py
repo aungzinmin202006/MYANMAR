@@ -3,6 +3,8 @@ os.system('xdg-open https://www.facebook.com/AungZinMin.2006')
 os.system('pip uninstall requests')
 os.system('pip install requests')
 
+print('your key is:\033[0;92msidj3838_9jf')
+print('username is:\033[0;92mBMH1')
 import getpass
 
 attemps = 0
