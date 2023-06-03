@@ -210,22 +210,13 @@ device = {
         'fbdm':fbdm}
         
 	
-	import getpass
 
-attemps = 0
+         
+		
+		
 
-while attemps < 12345677901:
-    username = input(' \033[0;92mEnter Username: ')
-    yourkey = input(' \033[0;93mEnter Your Key: ')
 
-    if username == 'BMH' and password == 'euusis383810dk':
-        print(' \033[0;92mYou Have Successfully Logged in.')
-        break
-    else:
-        print(' Incorrect key and username Please Trying ')
-        attemps += 1
-        continue
-os.system('clear')
+
 	
 logo=("""\033[1;34m
 
@@ -237,13 +228,13 @@ logo=("""\033[1;34m
 ┃┗━┛┃┃┃┃┃┃┃╋┃┃
 ┗━━━┻┛┗┛┗┻┛╋┗┛
 
-                                     LEE PEL KWAR🖕(BY BMH)
+                                     
 \033[1;31m--------------------------------------------------
 \033[1;35m[~] Owner             : BMH-CYBER
-\033[1;31m[~] Facebook          : Aung Zin Min 🖕
-\033[1;32m[~] Tool              : FREE
+\033[1;31m[~] Facebook          : Aung Zin Min 
+\033[1;32m[~] Tool              : FREE 
 \033[1;33m[~] Version           : 1.3
-\033[1;35m[~] Main              : FUCKYOU EVERYONE%...🖕
+\033[1;35m[~] Main              : FUCKYOU EVERYONE%...
 \033[1;31m[~] Original Write By : BMH 
 \033[1;33m----------------------------------------------""")
 
