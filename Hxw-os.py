@@ -76,7 +76,7 @@ Y ='\x1b[1;93m'
 uu ='\x1b[1;95m'
 tred = speed
 
-print('your key is:\033[0;92meidksosjf3829fj')
+
 print('username is:\033[0;92mBMH4')
 
 import getpass
