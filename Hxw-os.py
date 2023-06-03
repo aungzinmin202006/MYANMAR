@@ -81,7 +81,7 @@ attemps = 0
 
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
-     yourkey = input(' \033[0;93mEnter Your Key: ')
+    yourkey  = input(' \033[0;93mEnter Your Key: ')
 
     if username == 'BMH4' and yourkey == 'eidksosjf3829fj':
         print(' \033[0;92mYou Have Successfully Logged in.')
@@ -90,7 +90,7 @@ while attemps < 12345677901:
         print(' Incorrect key and username Please Trying ')
         attemps += 1
         continue
-os.system('clear')
+
 
 	
 logo= f'''
