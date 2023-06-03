@@ -13,16 +13,16 @@ attemps = 0
 
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
-    password = input(' \033[0;93mEnter Password: ')
+    yourkey  = input(' \033[0;93mEnter Your Key: ')
 
-    if username == 'BMH2' and password == 'CYBER':
+    if username == 'BMH2' and yourkey == 'dixjsk48292jfd':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
-        print(' Incorrect Pass Please Trying ')
+        print(' Incorrect key and username Please Trying ')
         attemps += 1
         continue
-os.system('clear')
+
 
 bit = platform.architecture()[0]
 if bit == '64bit':
