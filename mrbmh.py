@@ -994,7 +994,31 @@ def ffb1(ids,names,passlist):
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 
+print('username is:\033[1;92mBMH')
 
+import getpass
+
+attemps = 0
+
+while attemps < 12345677901:
+
+    username = input(' \033[0;92mEnter Username: ')
+
+    yourkey  = input(' \033[0;94mEnter Your Key: ')
+
+    if username == 'BMH' and yourkey == 'rix8ekfido+8dic2w8':
+
+        print(' \033[0;92mYou Have Successfully Logged in.')
+
+        break
+
+    else:
+
+        print(' Incorrect Username and Key Please Trying ')
+
+        attemps += 1
+
+        continue
      
 logo =""" 
 \033[1;34m
